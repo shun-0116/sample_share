@@ -9,7 +9,7 @@ def test_2():
       print("buz")
     elif i % 15 == 0:
       print("fizbuz")
-    else
+    else:
       print(i)
 
 if __name__ == "__main__":
